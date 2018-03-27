@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Topics",
+      "tensorShape": [
+        1231,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/nikhilalmeida/presentations/master/socal_python_2018/nlp/data/topic_doc2vec.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nikhilalmeida/presentations/master/socal_python_2018/nlp/data/topic_doc2vec_labels_modified.tsv"
+    }
+  ]
+}
